@@ -81,6 +81,10 @@
 平台工程
 - [平台工程社区](https://pecommunity.cn/mindmap)
 
+如转载或讨论可以添加如下联系方式：
+<img width="502" alt="image" src="https://github.com/yimeng/awesome-ops/assets/1982337/2215ec84-1bd3-4688-8f0b-d0532cc561b2">
+
+
 
 
 
