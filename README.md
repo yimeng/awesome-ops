@@ -25,6 +25,7 @@
 - [高效能团队模式 : 支持软件快速交付的组织架构](https://book.douban.com/subject/35528423/)
 - [高扩展性网站的50条原则](https://book.douban.com/subject/10756899/)
 - [Google系统架构解密 : 构建安全可靠的系统](https://book.douban.com/subject/35585206/)
+- [数据密集型应用系统设计](https://book.douban.com/subject/30329536/)
 
 ### SRE
 - [SRE : Google运维解密](https://book.douban.com/subject/26875239/)
